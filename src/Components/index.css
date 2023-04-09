@@ -1,0 +1,11 @@
+.Navitems{
+    list-style: none;
+    display: flex;
+}
+.Mainnav{
+    display: flex;
+    
+}
+.Navitems > li{
+    padding: 10px;
+}
